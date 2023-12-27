@@ -9,8 +9,7 @@
 ## INSTRUCTIONS
 -   To start, restore the database. Then start the server and open the project.
 
-*Web Developement 
-Create a Student Examination System
+- Create a Student Examination System
 
 Modules.
 1. Create a Module that can manage students.
