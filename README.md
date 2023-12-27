@@ -1,5 +1,13 @@
-# skilltest
-This is a university Skill Test
+## TITLE
+**Simple Student Examination System in PHP & MySQL**
+- This is just a university Skill Test
+
+## TECHONOLOGY
+- PHP v8.2
+- MySQL 
+
+## INSTRUCTIONS
+-   To start, restore the database. Then start the server and open the project.
 
 *Web Developement 
 Create a Student Examination System
